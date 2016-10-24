@@ -1,0 +1,1 @@
+(ob-spark-shell :fetcher github :repo "pepijn/ob-spark-shell")
